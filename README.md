@@ -1,4 +1,4 @@
 # Dogs-vs-cats
 Kaggle Competition
 
-Accuracy: 84.38%
+Accuracy: 84.38% (CNN)
